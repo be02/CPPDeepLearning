@@ -1,2 +1,2 @@
 # CPPDeepLearning
-Foundation Deep Learning with C++
+Deep Learning Foundation with C++
